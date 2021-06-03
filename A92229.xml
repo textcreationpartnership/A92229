@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for preserving the publick market of Blackwel-Hall and restraining the factors from dealing in wool humbly offer'd to the Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92229</idno><idno type="EEBO-CITATION">36273457</idno>
+  <idno type="VID">150191</idno>
+  <idno type="EEBO-PROQUEST">2240913236</idno>
+  
+            <idno type="STC">Wing R500C</idno>
+            <idno type="STC">ESTC R42384</idno>
+            <idno type="OCLC">36273457</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150191)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for preserving the publick market of Blackwel-Hall and restraining the factors from dealing in wool humbly offer'd to the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Endorsed: A contest between the clothiers and factors for the publick market of Blackwel-Hall.</note>
+                  <note>Date and place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Blackwell Hall (London, England)</term>
+               <term type="topical_term">Wool --  Great Britain --  Marketing --  Early works to 1800.</term>
+               <term type="topical_term">Wool industry --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:150191:1"/>
+            <head>REASONS <hi>for Preserving the Publick Market of</hi> Blackwel-Hall, <hi>and restraining the</hi> FACTORS <hi>from Dealing in</hi> Wool: Humbly Offer'd to the PARLIAMENT.</head>
+            <p>THE Life of Trade depends upon an equal Encouragement to all Persons that are Instru<g ref="char:EOLhyphen"/>ments of its Promotion: And the Variety of Circumstances that make an Odds in Buying and Selling (the tender part of Trade) are so many, that nothing but a Publick Market can make an equal Ballance, where alone the Buyer and Seller are upon equal Ground. The Buildings of <hi>Blackwell-Hall</hi> (fairly accommodated to Trade) are now become no more (for the most part in Merchants Cloth) than a Reception to collect a Duty out of the Cloth, and then sent by Factors and others into private Houses for a Sale, and the Maker become an uncon<g ref="char:EOLhyphen"/>cern'd Person in the Sale of his own Goods, scarce a Merchant appearing at this publick Market.</p>
+            <p>The Hardships upon the Clothiers from this Alteration, which is about twenty or thirty Years, are chiefly these:</p>
+            <p n="1">1. He can never know what Quantities of Cloth of any sort is upon Hand to be sold, which is a great light for his Government in holding up the Price of his Goods; whilst the Merchants and Packers are well enough conversant in this Point: Nay, the Packers many times magnifie their Stock of Cloth to give the Merchants Encouragement to come and buy from the greater Choice; as hath been ma<g ref="char:EOLhyphen"/>nifest from many Instances; which is hard upon the Maker.</p>
+            <p n="2">2. Hereby the Merchants have their Parcels of Cloth laid up by the Packers against a Shipping, which remain upon the Clothiers Account, thereby beating down the Price in little Parcels to sup<g ref="char:EOLhyphen"/>port the Work-People; and when the Shipping come, the whole Parcel sold off at that Price, and not the least Advance made by the Merchant: Whereas, was so great Quantities of Cloth bought by many Hands in the Publick Market, it would necessarily make some Advance upon Cloth, and our Monied Merchants, to gain that Advantage, would always be a buying before-hand.</p>
+            <p n="3">3. The Packer and Factor, to accommodate the Merchant, hath brought on a long Credit with Cloth; and the Packer being under other Obligations, is always very tender of pressing the Merchant for Payment, if his Conditions are not performed: Neither, indeed, is he a fit Person to be em<g ref="char:EOLhyphen"/>ployed in the Sale of Cloth for a Clothier, having a nearer Interest of his own to prefer.</p>
+            <p n="4">4. The Packer being a Buyer of Cloth himself against a Shipping, is always a beating down the Price upon the Clothier, for his own Advantage; and the best Opportunities for Sales besure will be reserved for his own Goods, if not put off by a better Sortment of the Clothier's.</p>
+            <p n="5">5. Hereby the Merchant having Opportunity to buy Cloth upon any Day of the Week, the Clo<g ref="char:EOLhyphen"/>thier hath no Dispatch in his Business, but remains twice as long in Town as in former Days, when no Cloth was to be had at the first-hand, but at the publick Market, upon the usual Market-Days; which kept the Merchant to a Dispatch with the Clothier.</p>
+            <p>The Consequences of which hath been, that the Price of Cloth hath been beat down a third part, the Prices of Wages in the Country many times from Nine-pence to Six-pence; besides many Hard<g ref="char:EOLhyphen"/>ships to the poor Labourers, in putting Commodities upon them above the real Value. How far this Management hath affected the Country-Gentleman's Estate, he is now to make a Judgment.</p>
+            <p>The Clothier's Hardships from the Factors, in putting <hi>Spanish</hi> Wools upon them at Advance-prices, are yet harder. Almost all the <hi>Spanish</hi> Wool that is brought into <hi>London,</hi> is bought up by them: They likewise employ Agents to buy it for them at <hi>Exon</hi> and <hi>Bristol.</hi> This is deliver'd out to their Clo<g ref="char:EOLhyphen"/>thiers at 3 <hi>d. per Pound</hi> Advance for Six Months, which is 20 <hi>l. per Gent. per Annum;</hi> many times at higher Prices. The Merchant refuses to sell to the Clothier, for fear of disobliging the Factor, who takes off a Quantity; and hereby the Clothiers of all Counties that have Stocks, are forc'd to give out, making no Advantage in Trade: And thereby the Country is very much impoverish'd.</p>
+            <p>The <hi>Dutch,</hi> who are our chiefest Competitors in Fine Cloth, hath hereby gained upon us, ma<g ref="char:EOLhyphen"/>king their Cloth Twelve-pence a Yard cheaper than we do. Many of the Makers in <hi>Holland</hi> are likewise Importers of <hi>Spanish</hi> Wool Themselves: So the mean profits saved between the Merchant and the Maker, by which means they have been able to Import their Fine thin Blacks upon us, though at the Hazard of Forfeiture, managing their Matters, in all particulars, the most frugal Way. No such Splendor in <hi>Holland,</hi> as the gaudy Equipage of a Cloth-Factor; and those that are willing to support it in <hi>England</hi> at the Expence of Twelve-pence a Yard Factoridge for every Yard of Cloth they were, are now at the Freedom of their own Choice.</p>
+            <p>But it is here objected, That this Bill will ruin all the little Clothiers, who when they come up and can't sell their Cloth, are supported with Money and Wool from the Factor. This Kindness I take to be no more than the Breaking a Man's Head and then helping him to a Plaister. Besure he shall never have any Sale for Cloth whilst he is in Town; possibly sent out to a Chapman, and that Money that it advanc'd, he must allow for until his own is receiv'd: And where there is one Instance of Advantage to little Clothiers, four hath been ruined hereby: Whereas, in former days there was many real Kindnesses to little Clothiers from Merchants, who bought their Cloth and paid them for it, and lent them Money <hi>gratis,</hi> to make more. And the Factors take as much Cre<g ref="char:EOLhyphen"/>dit from the Merchant in <hi>Spanish</hi> Wool as they afford the Clothier, who I doubt not but would be likewise Friendly to the Clothier.</p>
+            <p>But, say they, <hi>Blackwell Hall</hi> will not hold all the Cloth. This may be true, if Merchants have a Freedom to defer their Shipping as long as they please, and the Clothiers were able to make as much Cloth as the <hi>Hall</hi> would hold: The latter I am sure is impossible as Matters now stand, and the former, I hope, will be prevented. It was seen by Experience, that the <hi>Hall</hi> did contain the Trade before the Fire, and now it is built much larger; which is no good Objection, the Maker being under no Necessity to send up his whole Stock when great part remains at Market unfold; neither is it his Wisdom so to do.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:150191:2"/>
+            <p>A CONTEST Between the <hi>Clothiers</hi> and <hi>Factors,</hi> for the Publick Market of <hi>Blackwel-Hall.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
